@@ -1,0 +1,18 @@
+
+
+https://appiumpro.com/editions/91-getting-started-with-appium-for-android-on-windows
+https://appiumpro.com/editions/91-getting-started-with-appium-for-android-on-windows
+https://appiumpro.com/editions/91-getting-started-with-appium-for-android-on-windows
+https://appiumpro.com/editions/91-getting-started-with-appium-for-android-on-windows
+https://appiumpro.com/editions/91-getting-started-with-appium-for-android-on-windows
+
+Installed(in this order)
+-------
+Appium Desktop
+Appium python client
+JDK    ( PATH "C:\Program Files\Java\jdk1.8.0_251\")
+Set JAVA_HOME ENV VARIABLE "C:\Program Files\Java\jdk1.8.0_251\"
+Android studo downloaded to "C:\Program Files\Android\Android Studio"
+ANDROID SDK LOCATION = "C:\Users\mavri\AppData\Local\Android\Sdk"
+SET ANDROID_HOME ENV VARIABLE "C:\Users\mavri\AppData\Local\Android\Sdk"
+added C:\Users\mavri\AppData\Local\Android\Sdk\platform_tools\platform_tools to PATH
