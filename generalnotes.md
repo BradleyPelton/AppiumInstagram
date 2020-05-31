@@ -7,6 +7,12 @@
 4.) (EVENTHOUGH) The application is displayed in an XML tree
 5.) id != accessibility ID . 
 6.) Interesting, Instagram doesnt remember user credentials and auto login when launched with appActivity
+7.) emulator vs simulator (apparently android => emulator with avd, ios => simulator)
+8.) ESPRESSO CAN't BE USED FOR DEVICES THAT YOU DONT OWN/RUN LOCALLY
+9.) UIAutomator2 is the industry standard(owned and maintained by Google)
+
+
+https://ui.headspin.io/university/learn/appium-intro/units/sessions
 
 
 
@@ -14,11 +20,10 @@
 
 
 
-
-
-
-
-
+# technical notes
+1.) driver.getPageSource()     - Will print the xml tree
+2.) content-desc is an alias for accessibilityID for android. In the XML tree, only content-des will
+be displayed
 
 
 
