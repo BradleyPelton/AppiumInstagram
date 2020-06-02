@@ -5,6 +5,9 @@
 
 
 # VIDEO EXAMPLES
+- Scrape top  posts for title&Author AND like all 10 posts, SEE [homepagetests](https://github.com/BradleyPelton/AppiumInstagram/blob/master/homepagetests.py)
+![video alt](https://i.gyazo.com/cbf3817d2a66b323d04a5330e9ade34d.gif)
+
 - Basic login test https://gyazo.com/a77bc3787623eeb9890a840612c26a2a
 ![video alt](https://i.gyazo.com/a77bc3787623eeb9890a840612c26a2a.gif)
 

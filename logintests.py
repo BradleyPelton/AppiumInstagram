@@ -15,7 +15,8 @@ desired_caps = {
     "avd": "determination",
     "automationName": "UiAutomator2",
     "appPackage": "com.instagram.android",
-    "appActivity": ".activity.MainTabActivity"
+    "appActivity": ".activity.MainTabActivity",
+    "newCommandTimeout": "600"
 }
 
 driver = webdriver.Remote("http://localhost:4723/wd/hub", desired_caps)
